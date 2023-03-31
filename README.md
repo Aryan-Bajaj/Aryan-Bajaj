@@ -21,7 +21,6 @@
 - [Google Page Ranking: The Fun and Easy Way to be the Cool Kid in Your Industry](https://aryanbajaj13.medium.com/google-page-ranking-the-fun-and-easy-way-to-be-the-cool-kid-in-your-industry-3df60cf05549?source=rss-bccfcb8cc6f8------2)
 - [Tech Meets Art: AI-Powered Lip Sync Brings Digital Creations to Life!](https://aryanbajaj13.medium.com/tech-meets-art-ai-powered-lip-sync-brings-digital-creations-to-life-dd41af1d86ee?source=rss-bccfcb8cc6f8------2)
 - [All-In-One Audio Analysis Toolkit with Python](https://aryanbajaj13.medium.com/all-in-one-audio-analysis-toolkit-with-python-27c9072cecef?source=rss-bccfcb8cc6f8------2)
-- [GPT-4 Is Coming Soon. Here’s What We Know So Far &lpar;GPT, GPT-2, GPT-3&rpar;](https://aryanbajaj13.medium.com/gpt-4-is-coming-soon-heres-what-we-know-so-far-gpt-gpt2-gpt3-43c3b38eeeb8?source=rss-bccfcb8cc6f8------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
