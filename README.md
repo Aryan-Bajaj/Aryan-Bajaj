@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://bio.site/aryanbajaj](https://bio.site/aryanbajaj)
 
-- ⚡ Fun fact **I think I am funny😅**
+- ⚡ Fun fact **I can make complex things simple**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
