@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Aryan Bajaj</h1>
+![logo](https://github.com/Aryan-Bajaj/Aryan-Bajaj/blob/main/Modern%20Minimal%20Technology%20Background%20Banner.gif)
+
+<h1 align="centre">Hi 👋, I'm Aryan Bajaj</h1>
 <h3 align="center">Data Scientist and AI/ML Enthusiast with a Passion for Improving Corporate Performance and Simplifying Complex Concepts</h3>
 
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
@@ -15,14 +17,6 @@
 
 - ⚡ Fun fact **I think I am funny😅**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [Mastering A* Algorithm with Python: Navigate like a Pro in any Situation](https://aryanbajaj13.medium.com/mastering-a-algorithm-with-python-navigate-like-a-pro-in-any-situation-b69f9893f2e1?source=rss-bccfcb8cc6f8------2)
-- [Google Page Ranking: The Fun and Easy Way to be the Cool Kid in Your Industry](https://aryanbajaj13.medium.com/google-page-ranking-the-fun-and-easy-way-to-be-the-cool-kid-in-your-industry-3df60cf05549?source=rss-bccfcb8cc6f8------2)
-- [Tech Meets Art: AI-Powered Lip Sync Brings Digital Creations to Life!](https://aryanbajaj13.medium.com/tech-meets-art-ai-powered-lip-sync-brings-digital-creations-to-life-dd41af1d86ee?source=rss-bccfcb8cc6f8------2)
-- [All-In-One Audio Analysis Toolkit with Python](https://aryanbajaj13.medium.com/all-in-one-audio-analysis-toolkit-with-python-27c9072cecef?source=rss-bccfcb8cc6f8------2)
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aryan-bajaj-b62364191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryan-bajaj-b62364191" height="30" width="40" /></a>
@@ -37,3 +31,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryan-bajaj&show_icons=true&theme=dark&title_color=0c57ed&text_color=0c57ed&bg_color=000000&locale=en" alt="aryan-bajaj" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-bajaj&theme=dark" alt="aryan-bajaj" /></p>
+
+### Blogs posts:
+<!-- BLOG-POST-LIST:START -->
+- [Mastering A* Algorithm with Python: Navigate like a Pro in any Situation](https://aryanbajaj13.medium.com/mastering-a-algorithm-with-python-navigate-like-a-pro-in-any-situation-b69f9893f2e1?source=rss-bccfcb8cc6f8------2)
+- [Google Page Ranking: The Fun and Easy Way to be the Cool Kid in Your Industry](https://aryanbajaj13.medium.com/google-page-ranking-the-fun-and-easy-way-to-be-the-cool-kid-in-your-industry-3df60cf05549?source=rss-bccfcb8cc6f8------2)
+- [Tech Meets Art: AI-Powered Lip Sync Brings Digital Creations to Life!](https://aryanbajaj13.medium.com/tech-meets-art-ai-powered-lip-sync-brings-digital-creations-to-life-dd41af1d86ee?source=rss-bccfcb8cc6f8------2)
+- [All-In-One Audio Analysis Toolkit with Python](https://aryanbajaj13.medium.com/all-in-one-audio-analysis-toolkit-with-python-27c9072cecef?source=rss-bccfcb8cc6f8------2)
+<!-- BLOG-POST-LIST:END -->
