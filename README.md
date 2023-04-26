@@ -34,6 +34,7 @@
 
 ### Blogs posts:
 <!-- BLOG-POST-LIST:START -->
+- [Ensemble Models: How to Make Better Predictions by Combining Multiple Models with Python Codes…](https://medium.com/web3-surfers/ensemble-models-how-to-make-better-predictions-by-combining-multiple-models-with-python-codes-6ac54403414e?source=rss-bccfcb8cc6f8------2)
 - [Mastering A* Algorithm with Python: Navigate like a Pro in any Situation](https://aryanbajaj13.medium.com/mastering-a-algorithm-with-python-navigate-like-a-pro-in-any-situation-b69f9893f2e1?source=rss-bccfcb8cc6f8------2)
 - [Google Page Ranking: The Fun and Easy Way to be the Cool Kid in Your Industry](https://aryanbajaj13.medium.com/google-page-ranking-the-fun-and-easy-way-to-be-the-cool-kid-in-your-industry-3df60cf05549?source=rss-bccfcb8cc6f8------2)
 - [Tech Meets Art: AI-Powered Lip Sync Brings Digital Creations to Life!](https://aryanbajaj13.medium.com/tech-meets-art-ai-powered-lip-sync-brings-digital-creations-to-life-dd41af1d86ee?source=rss-bccfcb8cc6f8------2)
@@ -43,5 +44,4 @@
 - [Business Analytics and the Best Supporting Tools](https://aryanbajaj13.medium.com/business-analyst-and-best-supporting-tools-9ef0641b2997?source=rss-bccfcb8cc6f8------2)
 - [Consumer Buying Behaviour Pattern Prediction Using Artificial Neural Network for Automobiles Sector](https://aryanbajaj13.medium.com/consumer-behaviour-pattern-prediction-using-artificial-neural-network-for-automobiles-sector-7b96e669ce35?source=rss-bccfcb8cc6f8------2)
 - [A Marketers Tool — The Art of Automation using Python](https://aryanbajaj13.medium.com/a-marketers-tool-the-art-of-automation-using-python-c235cc00187?source=rss-bccfcb8cc6f8------2)
-- [Scrap any website using Python in 7 Steps &lpar;Stock Market, Social Media, etc…&rpar;](https://aryanbajaj13.medium.com/scrap-any-website-using-python-in-7-steps-stock-market-social-media-etc-c1bd2f1c4e2e?source=rss-bccfcb8cc6f8------2)
 <!-- BLOG-POST-LIST:END -->
