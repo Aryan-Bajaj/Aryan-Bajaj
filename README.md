@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://aryanbajaj13.medium.com/](https://aryanbajaj13.medium.com/)
 
-- 💬 Ask me about **NLP, Chat-Bots,Automation, Data Visualization, Machine Learning Models, and Artificial Intelligence**
+- 💬 Ask me about **NLP, Chat-BOTS, Automation, Data Visualization, Machine Learning Models, and Artificial Intelligence**
 
 - 📫 How to reach me **aryanbajaj104@gmail.com**
 
