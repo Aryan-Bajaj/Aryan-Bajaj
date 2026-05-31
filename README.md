@@ -127,16 +127,15 @@ Python package for automated data cleaning and preprocessing — handles missing
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 Expertise
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aryan-Bajaj&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-Bajaj&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan-Bajaj&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-informational?style=for-the-badge&logo=python&logoColor=white&color=0e75b6"/>
+  <img src="https://img.shields.io/badge/NLP-informational?style=for-the-badge&logo=spacy&logoColor=white&color=0e75b6"/>
+  <img src="https://img.shields.io/badge/LLMs-informational?style=for-the-badge&logo=openai&logoColor=white&color=0e75b6"/>
+  <img src="https://img.shields.io/badge/Data%20Visualization-informational?style=for-the-badge&logo=tableau&logoColor=white&color=0e75b6"/>
+  <img src="https://img.shields.io/badge/Automation-informational?style=for-the-badge&logo=selenium&logoColor=white&color=0e75b6"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-informational?style=for-the-badge&logo=opencv&logoColor=white&color=0e75b6"/>
 </p>
 
 ---
