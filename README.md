@@ -30,13 +30,13 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 MSc in **AI, Data Science & Digital Business** — based in **Berlin, Germany**
-- 💡 I build AI-powered tools focused on automation, LLMs, and real-world utility
-- 🔭 Currently building **[VideoDoc](https://videodoc.netlify.app)** — turn any screen recording into polished docs, entirely in your browser
-- 📝 I write about ML & AI on [Medium](https://aryanbajaj13.medium.com/)
-- 💬 Ask me about **NLP, LLMs, Automation, Data Visualization, Machine Learning**
-- 📄 Know more at [bio.site/aryanbajaj](https://bio.site/aryanbajaj)
-- ⚡ Fun fact: I can make complex things simple
+MSc in **AI, Data Science & Digital Business** based in **Berlin, Germany**. I build AI-powered tools focused on automation, LLMs, and real-world utility.
+
+Currently building **[VideoDoc](https://videodoc.netlify.app)** — turn any screen recording into polished docs, entirely in your browser.
+
+Ask me about **NLP · LLMs · Automation · Data Visualization · Machine Learning**
+
+📄 [bio.site/aryanbajaj](https://bio.site/aryanbajaj) &nbsp;|&nbsp; ✉️ aryanbajaj104@gmail.com
 
 ---
 
