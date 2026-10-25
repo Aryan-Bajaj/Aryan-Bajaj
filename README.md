@@ -32,7 +32,7 @@
 
 MSc in **AI, Data Science & Digital Business** based in **Berlin, Germany**. I build AI-powered tools focused on automation, LLMs, and real-world utility.
 
-Currently building **[VideoDoc](https://videodoc.netlify.app)** — turn any screen recording into polished docs, entirely in your browser.
+Currently building **[ShowMeWise](https://showmewise.netlify.app)**: turn any screen recording into a step by step guide that shows where to click, entirely on your own computer.
 
 Ask me about **NLP · LLMs · Automation · Data Visualization · Machine Learning**
 
@@ -46,16 +46,16 @@ Ask me about **NLP · LLMs · Automation · Data Visualization · Machine Learni
 <tr>
 <td width="50%" valign="top">
 
-### 🎬 [VideoDoc](https://github.com/Aryan-Bajaj/video-docs)
+### 🎬 [ShowMeWise](https://github.com/Aryan-Bajaj/showmewise)
 
-Turn any screen recording into polished, step-by-step documentation — entirely in your browser. No server. No uploads. No subscription. Ever.
+Turn any screen recording into polished, step by step documentation, entirely in your browser. No server. No uploads. No subscription. Ever. Plus Vidi, a browser pet that guides you on any page.
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Whisper AI](https://img.shields.io/badge/Whisper_AI-FF6B6B?style=flat&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat)
 ![Three.js](https://img.shields.io/badge/Three.js-black?style=flat&logo=three.js&logoColor=white)
 
-🌐 **[Live Demo →](https://videodoc.netlify.app)**
+🌐 **[Live Demo →](https://showmewise.netlify.app)**
 
 </td>
 <td width="50%" valign="top">
